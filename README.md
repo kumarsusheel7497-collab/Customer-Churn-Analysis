@@ -40,6 +40,7 @@ Files in this Repository
 Key Insights
 
 The analysis helps identify customer groups with higher churn rates based on subscription type, charges, and service usage patterns. These insights can help businesses improve retention strategies and reduce customer loss.
+[Open In Colab](https://colab.research.google.com/github/kumarsusheel7497-collab/CodeAlpha_CustomerChurn_Task2/blob/main/Customer_Churn_Analysis.ipynb)
 
 Outcome
 
